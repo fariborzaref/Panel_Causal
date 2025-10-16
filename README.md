@@ -7,7 +7,7 @@
 
 ---
 
-### 🔬 Objective  
+### Objective  
 This repository operationalizes **causal and dynamic modeling** for macro-sociological panel data.  
 It unifies three methodological layers:
 
@@ -17,12 +17,12 @@ It unifies three methodological layers:
 
 ---
 
-### ⚙️ Technical Stack  
+### Technical Stack  
 R · `plm` · `fixest` · `did` · `panelView` · `pgmm` · `broom` · `ggplot2` · `data.table`  
 
 ---
 
-### 📊 Empirical Context  
+### Empirical Context  
 27 OECD countries observed 2002–2021  
 - **Income inequality (Gini)**  
 - **Health inequality (life expectancy gap)**  
@@ -31,13 +31,13 @@ R · `plm` · `fixest` · `did` · `panelView` · `pgmm` · `broom` · `ggplot2`
 
 ---
 
-### 🧭 Interpretation Framework  
+### Interpretation Framework  
 > “Causality is structure plus counterfactual.  
 > In panel data, each country is both its own control and its own history.” — Dr. Fariborz Aref
 
 ---
 
-### 📈 Model Overview  
+### Model Overview  
 
 | Level | Method | Estimator | Core Packages |
 |-------|---------|------------|----------------|
@@ -47,7 +47,7 @@ R · `plm` · `fixest` · `did` · `panelView` · `pgmm` · `broom` · `ggplot2`
 
 ---
 
-### 📦 Output Examples  
+### Output Examples  
 - Marginal effect plots (policy shock × time)  
 - Country-level causal ATT estimates  
 - Dynamic response curves (GMM impulse functions)  
@@ -55,7 +55,7 @@ R · `plm` · `fixest` · `did` · `panelView` · `pgmm` · `broom` · `ggplot2`
 
 ---
 
-### 🧩 Educational Utility  
+### Educational Utility  
 This module is designed for teaching **Panel Data Methods in Social Science** — combining econometrics and sociological interpretation.  
 It can serve as:
 - A **graduate-level lab assignment**  
