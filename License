@@ -1,0 +1,11 @@
+
+---
+
+### What to do next (fast path)
+
+1) Open your repo → **README.md** → paste the entire block above → **Commit**.  
+2) Upload your CSV to `/data`.  
+3) Run the code blocks in R (they’re standalone).  
+4) Later, move each block into `/scripts/01_fixed_effects.R`, `/scripts/02_did_models.R`, `/scripts/03_gmm_dynamic.R`.
+
+If you want, I can also generate **small synthetic test data** so everything runs even before you finalize your real CSV.
