@@ -33,7 +33,7 @@ R · `plm` · `fixest` · `did` · `panelView` · `pgmm` · `broom` · `ggplot2`
 
 ### Interpretation Framework  
 > “Causality is structure plus counterfactual.  
-> In panel data, each country is both its own control and its own history.” — Dr. Fariborz Aref
+> In panel data, each country is both its own control and its own history.” 
 
 ---
 
